@@ -1,0 +1,96 @@
+<html>
+<head><strong>
+<title>thailand view</title>
+<link rel="stylesheet" href="style.css">
+
+
+</head>
+<body> 
+<h1><span style="color:white">  Welcome To Thailand</h1> </span>
+<h2>My name is Matan Harazi, I'm originally from Emek Hefer.<br>
+ 30 years old,living with my fiancee in Ramat Gan for a year and a half<br>
+ I have a degree in business administration and marketing<br>
+ I personally really like Thailand and will tell you about some recommended places </h2>
+<ul> 
+<li> pai</li>
+<li> ko phi phi</li>
+<li> phuket </li>
+</ul>
+
+<h2>pai </h2>
+<h4>Pai, Thailand:<br>
+Pai is a charming town nestled in the mountains of Northern Thailand,<br>
+ offering a perfect blend of adventure,<br>
+ relaxation, and natural beauty.<br>
+ Here's why you should consider visiting:<br>
+
+Stunning Natural Beauty<br>
+Pai Canyon: This breathtaking gorge offers stunning viewpoints and hiking trails.<br>
+Rice paddies: Lush green landscapes create a serene atmosphere.<br>
+Waterfalls: Refreshing escapes from the heat, with Mo Paeng Waterfall being a popular choice.<br>
+Hot springs: Relax and rejuvenate in the natural hot springs. </h4><br>
+<img src="PAI.jpeg" width="400" height="200" />
+<img src="תצפית1.jpeg" width="400" height="200" />
+<img src="תצפית2.jpeg"  width="400" height="200" />
+<img src="פילון.jpeg"  width="400" height="300" />
+<img src="טרקטורונים.jpeg"  width="400" height="300" />
+<img src="מפל מו פאנג.jpg"  width="400" height="300" />
+<ul> Adventure Activities
+<li> Motorbike rentals: Explore the surrounding countryside at your own pace.</li>
+<li>Hiking and trekking: Discover hidden trails and waterfalls.</li>
+<li>White-water rafting: Get your adrenaline pumping.</li>
+<li>Elephant sanctuaries: Ethical encounters with these gentle giants.</li>
+</ul>
+<h2>ko phi phi</h2>
+<h4>Phi Phi Islands, Thailand: A Tropical Paradise<br>
+Phi Phi is a small but stunning island group in the Andaman Sea,<br>
+ Thailand. The islands are renowned for their white sandy beaches,<br>
+ crystal-clear turquoise waters, vibrant coral reefs,<br>
+ and pristine natural beauty. <br>
+ Phi Phi is a haven for nature lovers, divers, and snorkelers.</h4><br>
+ <img src="קוף.jpeg" width="400" height="300" />
+<img src="קופיפיסירה.jpeg" width="400" height="300" />
+<img src="מתןקוף.jpeg"  width="400" height="300" />
+<img src="צלילה.jpg"  width="400" height="300" />
+<img src="סירות.jpg"  width="400" height="300" />
+<img src="אוכל.jpg"  width="400" height="300" />
+ <ul> <span style="color:white">What draws tourists to Phi Phi?
+<li> White sandy beaches and turquoise waters: Phi Phi's beaches are considered some of the most beautiful in the world.
+ Lo Da Lama Bay is a popular beach with soft white sand and clear waters.</li>
+<li>Caves and nearby islands: Rent a boat and explore the surrounding islands,the most recommended trip is the "7 islands trip" to hidden caves, and lagoons.</li>
+<li>Delicious food: The islands offer a variety of restaurants serving delicious Thai cuisine and international dishes.</li>
+<li>Relaxing atmosphere: Phi Phi provides a peaceful and tranquil escape from the hustle and bustle of city life.</li>
+</ul><span/>
+<h2><span style="color:red">phuket</h2>
+<h4>Phuket, Thailand's largest island,<br>
+ is a popular tourist destination offering a perfect blend of stunning beaches, <br>
+ vibrant nightlife, rich culture, <br>
+ and family-friendly attractions<br>
+ Phi Phi is a haven for nature lovers, divers, and snorkelers.</h4><br><span/>
+ <img src="פטונגביץ.jpeg" width="400" height="300" />
+<img src="פטונגרחוב.jpg" width="400" height="300" />
+<img src="פאב.jpeg"  width="400" height="300" />
+<img src="מסאג.jpeg"  width="400" height="300" />
+<img src="פטונגראשי.jpeg"  width="400" height="300" />
+<img src="אילוזן.jpg"  width="400" height="300" />
+ <ul> What to do in Phuket:
+<li>Soak up the sun: Phuket offers a wide variety of beaches, so you can find the perfect spot to relax and sunbathe.</li>
+<li>Go on excursions: Explore the island, visit local villages, hike through rainforests, or take a day trip to nearby islands.</li>
+<li>Indulge in a Thai massage: Treat yourself to a relaxing and rejuvenating experience.</li>
+<li>Enjoy the nightlife: Patong offers a wide range of bars, clubs, and restaurants, so you can party the night away.</li>
+</ul></strong>
+<h1>ATV Trip</h1>
+
+<video width="500" height="400" controls>
+  <source src="thailand.mp4" type="video/mp4">
+</video>
+<a href="#" class="next">Next &raquo;</a>
+
+
+
+
+
+
+</body>
+
+</html>
